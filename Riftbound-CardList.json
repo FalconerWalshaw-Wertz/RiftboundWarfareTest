@@ -1,21 +1,21 @@
 {
-  "OGN-001": {
-    "id": "OGN-001",
+  "BASE-001": {
+    "id": "BASE-001",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Blazing Scorcher",
+        "name": "Conquest Recruit",
         "type": "Unit",
-        "cost": 5,
-        "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-001/full-desktop-2x.avif",
+        "cost": 2,
+        "image": "https://imgur.com/JCcBvBp",
         "isHorizontal": false
       }
     },
-    "name": "Blazing Scorcher",
+    "name": "Conquest Recruit",
     "type": "Unit",
-    "cost": 5,
+    "cost": 2,
     "Domain": ["🔴 Fury"],
-    "Set": ["01 - Origins"]
+    "Set": ["01 - Base"]
   },
   "OGN-002": {
     "id": "OGN-002",
