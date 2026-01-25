@@ -1,1 +1,19 @@
-
+{
+  "BASE-001": {
+    "id": "BASE-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conquest Recruit",
+        "type": "Unit",
+        "cost": 2,
+        "image": "https://imgur.com/JCcBvBp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conquest Recruit",
+    "type": "Unit",
+    "cost": 2,
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Base"]
+  },
