@@ -14,7 +14,5 @@
     "name": "Conquest Recruit",
     "type": "Unit",
     "cost": "2"
-    "Domain": ["🔴 Fury"],
-    "Set": ["01 - Base"]
   }
 }
