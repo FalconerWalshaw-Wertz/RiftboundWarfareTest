@@ -15,4 +15,52 @@
     "type": "Unit",
     "cost": "2"
   }
+    "BASE-02": {
+    "id": "BASE-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conquest Infantry",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://i.imgur.com/icTLAJ2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conquest Infantry",
+    "type": "Unit",
+    "cost": "3"
+  }
+    "BASE-03": {
+    "id": "BASE-03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conquest Veteran",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://i.imgur.com/tZpfHMo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conquest Veteran",
+    "type": "Unit",
+    "cost": "4"
+  }
+    "BASE-04": {
+    "id": "BASE-01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conquest Elite",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://i.imgur.com/8H0uoNZ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conquest Elite",
+    "type": "Unit",
+    "cost": "5"
+  }
 }
