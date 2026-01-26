@@ -14,6 +14,8 @@
     "name": "Conquest Recruit",
     "type": "Unit",
     "cost": "2"
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   }
 },
     "BASE-02": {
@@ -31,4 +33,6 @@
     "name": "Conquest Infantry",
     "type": "Unit",
     "cost": "3"
+    "Domain": ["🔴 Fury"],
+    "Set": ["01 - Origins"]
   }
