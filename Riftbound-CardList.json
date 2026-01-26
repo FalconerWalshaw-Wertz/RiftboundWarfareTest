@@ -46,5 +46,21 @@
     "name": "Conquest Veteran",
     "type": "Unit",
     "cost": "4"
+  },
+    "BASE-04": {
+    "id": "BASE-04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conquest Elite",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://i.imgur.com/8H0uoNZ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conquest Elite",
+    "type": "Unit",
+    "cost": "5"
   }
 }
