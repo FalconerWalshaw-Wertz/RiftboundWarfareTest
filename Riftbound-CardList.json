@@ -5,14 +5,14 @@
     "face": {
       "front": {
         "name": "Conquest Recruit",
-        "type": false,
+        "type": "Unit",
         "cost": "2",
         "image": "https://i.imgur.com/JCcBvBp.png",
         "isHorizontal": false
       }
     },
     "name": "Conquest Recruit",
-    "type": false,
+    "type": "Unit",
     "cost": "2"
   }
 }
