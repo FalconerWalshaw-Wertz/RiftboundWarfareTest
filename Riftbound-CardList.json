@@ -14,7 +14,7 @@
     "name": "Conquest Recruit",
     "type": "Unit",
     "cost": "2"
-  }
+  },
     "BASE-02": {
     "id": "BASE-02",
     "isToken": false,
@@ -30,7 +30,7 @@
     "name": "Conquest Infantry",
     "type": "Unit",
     "cost": "3"
-  }
+  },
     "BASE-03": {
     "id": "BASE-03",
     "isToken": false,
@@ -46,7 +46,7 @@
     "name": "Conquest Veteran",
     "type": "Unit",
     "cost": "4"
-  }
+  },
     "BASE-04": {
     "id": "BASE-01",
     "isToken": false,
