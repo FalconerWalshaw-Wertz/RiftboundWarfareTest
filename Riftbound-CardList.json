@@ -1,19 +1,18 @@
 {
-  "BASE-001": {
-    "id": "BASE-001",
+  "BASE-01": {
+    "id": "BASE-01",
     "isToken": false,
     "face": {
       "front": {
         "name": "Conquest Recruit",
-        "type": "Unit",
-        "cost": 2,
+        "type": false,
+        "cost": "2",
         "image": "https://cdn.rgpub.io/public/live/map/riftbound/latest/OGN/cards/OGN-001/full-desktop-2x.avif",
         "isHorizontal": false
       }
     },
     "name": "Conquest Recruit",
-    "type": "Unit",
-    "cost": 2,
-    "Domain": ["🔴 Fury"],
-    "Set": ["01 - Base"]
+    "type": false,
+    "cost": "2"
   }
+}
