@@ -14,5 +14,21 @@
     "name": "Conquest Recruit",
     "type": "Unit",
     "cost": "2"
+  },
+    "BASE-02": {
+    "id": "BASE-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conquest Infantry",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://i.imgur.com/icTLAJ2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conquest Infantry",
+    "type": "Unit",
+    "cost": "3"
   }
 }
