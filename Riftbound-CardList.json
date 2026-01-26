@@ -30,5 +30,21 @@
     "name": "Conquest Infantry",
     "type": "Unit",
     "cost": "3"
+  },
+    "BASE-03": {
+      "id": "BASE-03",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Conquest Veteran",
+          "type": "Unit",
+          "cost": "4",
+          "image": "https://i.imgur.com/tZpfHMo.png",
+          "isHorizontal": false
+      }
+    },
+    "name": "Conquest Veteran",
+    "type": "Unit",
+    "cost": "4"
   }
 }
