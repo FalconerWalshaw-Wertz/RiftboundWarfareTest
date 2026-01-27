@@ -64,15 +64,15 @@
     "cost": "5"
   },
     "BASE-05": {
-    "id": "BASE-05",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Strike To The Heart",
-        "type": "Spell",
-        "cost": "3",
-        "image": "https://i.imgur.com/wN4bjzI.png",
-        "isHorizontal": false
+      "id": "BASE-05",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Strike To The Heart",
+          "type": "Spell",
+          "cost": "3",
+          "image": "https://i.imgur.com/wN4bjzI.png",
+          "isHorizontal": false
       }
     },
     "name": "Strike To The Heart",
