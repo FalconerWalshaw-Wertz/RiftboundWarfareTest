@@ -62,5 +62,22 @@
     "name": "Conquest Elite",
     "type": "Unit",
     "cost": "5"
-  }
+  },
+    "BASE-05": {
+    "id": "BASE-04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Strike To The Heart",
+        "type": "Spell",
+        "cost": "3",
+        "image": "https://i.imgur.com/wN4bjzI.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Strike To The Heart",
+    "type": "Spell",
+    "cost": "3"
+
+  
 }
