@@ -79,5 +79,21 @@
     "type": "Spell",
     "cost": "3"
     }
+  {
+  "BASE-06": {
+    "id": "BASE-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blitz Recruit",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.imgur.com/TwSsZhK.png",
+        "isHorizontal": false
+      }
+      "name": "Blitz Recruit",
+      "type": "Unit",
+      "cost": "2"
+    },
 }
 
