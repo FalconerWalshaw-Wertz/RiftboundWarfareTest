@@ -91,9 +91,10 @@
         "image": "https://i.imgur.com/TwSsZhK.png",
         "isHorizontal": false
       }
+    },
       "name": "Blitz Recruit",
       "type": "Unit",
       "cost": "2"
-    },
+    }
 }
 
