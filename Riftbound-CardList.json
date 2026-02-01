@@ -159,5 +159,8 @@
           "image": "https://i.imgur.com/ELZfW2O.png",
           "isHorizontal": false
       }
+          "name": "Strike To The Heart",
+          "type": "Spell",
+          "cost": "3"
 }
 
