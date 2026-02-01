@@ -63,22 +63,23 @@
     "type": "Unit",
     "cost": "5"
   },
-    "BASE-05": {
-      "id": "BASE-05",
-      "isToken": false,
-      "face": {
-        "front": {
-          "name": "Strike To The Heart",
-          "type": "Spell",
-          "cost": "3",
-          "image": "https://i.imgur.com/ELZfW2O.png",
-          "isHorizontal": false
+    
+  "BASE-05": {
+    "id": "BASE-05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cavalry",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://i.imgur.com/eUcGa8j.png",
+        "isHorizontal": false
       }
     },
-    "name": "Strike To The Heart",
-    "type": "Spell",
-    "cost": "3"
-    },
+        "name": "Cavalry",
+        "type": "Unit",
+        "cost": "6"
+    }
   
   "BASE-06": {
     "id": "BASE-06",
@@ -147,22 +148,16 @@
         "type": "Unit",
         "cost": "5"
     },
-    
-  "BASE-10": {
-    "id": "BASE-10",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Cavalry",
-        "type": "Unit",
-        "cost": "6",
-        "image": "https://i.imgur.com/eUcGa8j.png",
-        "isHorizontal": false
+    "BASE-10": {
+      "id": "BASE-10",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Strike To The Heart",
+          "type": "Spell",
+          "cost": "3",
+          "image": "https://i.imgur.com/ELZfW2O.png",
+          "isHorizontal": false
       }
-    },
-        "name": "Cavalry",
-        "type": "Unit",
-        "cost": "6"
-    }
 }
 
