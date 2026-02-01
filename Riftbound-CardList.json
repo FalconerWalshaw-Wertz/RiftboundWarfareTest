@@ -112,6 +112,23 @@
         "name": "Blitz Infantry",
         "type": "Unit",
         "cost": "3"
+    },
+    
+  "BASE-08": {
+    "id": "BASE-08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blitz Veteran",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://i.imgur.com/TT20MuQ.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Blitz Veteran",
+        "type": "Unit",
+        "cost": "4"
     }
 }
 
