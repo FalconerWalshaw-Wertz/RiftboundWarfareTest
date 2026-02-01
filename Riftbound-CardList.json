@@ -78,8 +78,8 @@
     "name": "Strike To The Heart",
     "type": "Spell",
     "cost": "3"
-    }
-  {
+    },
+  
   "BASE-06": {
     "id": "BASE-06",
     "isToken": false,
