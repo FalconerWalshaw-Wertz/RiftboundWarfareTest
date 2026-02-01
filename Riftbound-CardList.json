@@ -95,6 +95,23 @@
       "name": "Blitz Recruit",
       "type": "Unit",
       "cost": "2"
+    },
+    
+  "BASE-07": {
+    "id": "BASE-07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blitz Infantry",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://i.imgur.com/FFqPTP4.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Blitz Infantry",
+        "type": "Unit",
+        "cost": "3"
     }
 }
 
