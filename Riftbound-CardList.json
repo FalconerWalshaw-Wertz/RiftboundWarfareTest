@@ -146,6 +146,23 @@
         "name": "Blitz Elite",
         "type": "Unit",
         "cost": "5"
+    },
+    
+  "BASE-10": {
+    "id": "BASE-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cavalry",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://i.imgur.com/eUcGa8j.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Cavalry",
+        "type": "Unit",
+        "cost": "6"
     }
 }
 
