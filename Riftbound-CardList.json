@@ -129,6 +129,23 @@
         "name": "Blitz Veteran",
         "type": "Unit",
         "cost": "4"
+    },
+    
+  "BASE-09": {
+    "id": "BASE-09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blitz Elite",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://i.imgur.com/fXFSwc2.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Blitz Elite",
+        "type": "Unit",
+        "cost": "5"
     }
 }
 
