@@ -500,7 +500,6 @@
           "type": "Spell",
           "cost": "5"
 },
-  {
   "RUNE-00": {
     "id": "RUNE-00",
     "isToken": false,
