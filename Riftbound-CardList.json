@@ -163,6 +163,102 @@
           "name": "Strike To The Heart",
           "type": "Spell",
           "cost": "3"
+},
+    "BASE-11": {
+      "id": "BASE-11",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Lay Claim",
+          "type": "Spell",
+          "cost": "1",
+          "image": "https://i.imgur.com/IJsR6bn.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Lay Claim",
+          "type": "Spell",
+          "cost": "1"
+},
+    "BASE-12": {
+      "id": "BASE-12",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Charge",
+          "type": "Spell",
+          "cost": "2",
+          "image": "https://i.imgur.com/7HucX9W.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Charge",
+          "type": "Spell",
+          "cost": "2"
+},
+    "BASE-13": {
+      "id": "BASE-13",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Over The Top",
+          "type": "Spell",
+          "cost": "3",
+          "image": "https://i.imgur.com/4Jwtron.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Over The Top",
+          "type": "Spell",
+          "cost": "3"
+},
+    "BASE-14": {
+      "id": "BASE-14",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "At Dawn We Ride",
+          "type": "Spell",
+          "cost": "4",
+          "image": "https://i.imgur.com/eWZGMuR.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "At Dawn We Ride",
+          "type": "Spell",
+          "cost": "4"
+},
+    "BASE-15": {
+      "id": "BASE-15",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Into The Breach",
+          "type": "Spell",
+          "cost": "4",
+          "image": "https://i.imgur.com/BmbbWbV.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Into The Breach",
+          "type": "Spell",
+          "cost": "4"
+},
+    "BASE-16": {
+      "id": "BASE-16",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Blitzkrieg",
+          "type": "Spell",
+          "cost": "6",
+          "image": "https://i.imgur.com/FNPzzgy.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Blitzkrieg",
+          "type": "Spell",
+          "cost": "6"
 }
 }
 
