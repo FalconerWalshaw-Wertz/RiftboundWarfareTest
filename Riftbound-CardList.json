@@ -565,7 +565,7 @@
         "cost": "0"
   },
   "BASE-90": {
-    "id": "BASE-96",
+    "id": "BASE-90",
     "isToken": false,
     "face": {
       "front": {
@@ -579,5 +579,21 @@
         "name": "Testy",
         "type": "Legend",
         "cost": "0"
-  }  
+  },
+  "BASE-91": {
+    "id": "BASE-91",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Testy' House",
+        "type": "Battlefields",
+        "cost": "0",
+        "image": "https://i.imgur.com/CHbh3Ht.png",
+        "isHorizontal": true
+      }
+    },
+        "name": "Testy' House",
+        "type": "Battlefields",
+        "cost": "0"
+  } 
 }
