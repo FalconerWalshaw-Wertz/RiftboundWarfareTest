@@ -260,22 +260,6 @@
           "type": "Spell",
           "cost": "6"
 },
-    "BASE-16": {
-      "id": "BASE-16",
-      "isToken": false,
-      "face": {
-        "front": {
-          "name": "Blitzkrieg",
-          "type": "Spell",
-          "cost": "6",
-          "image": "https://i.imgur.com/FNPzzgy.png",
-          "isHorizontal": false
-      }
-    },
-          "name": "Blitzkrieg",
-          "type": "Spell",
-          "cost": "6"
-},
     "BASE-17": {
       "id": "BASE-17",
       "isToken": false,
