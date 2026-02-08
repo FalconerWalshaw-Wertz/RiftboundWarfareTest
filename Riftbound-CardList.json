@@ -595,5 +595,21 @@
         "name": "Testy' House",
         "type": "Battlefields",
         "cost": "0"
-  } 
+  },
+  "BASE-92": {
+    "id": "BASE-92",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Testy's Besty",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://i.imgur.com/gmPH7ph.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Testy's Besty",
+        "type": "Unit",
+        "cost": "4"
+  }
 }
