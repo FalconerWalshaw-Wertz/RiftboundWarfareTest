@@ -297,14 +297,14 @@
       "isToken": false,
       "face": {
         "front": {
-          "name": "Well-Fed Infantry,
+          "name": "Well-Fed Infantry",
           "type": "Unit",
           "cost": "3",
           "image": "https://i.imgur.com/rAiTux5.png",
           "isHorizontal": false
       }
     },
-          "name": "Well-Fed Infantry,
+          "name": "Well-Fed Infantry",
           "type": "Unit",
           "cost": "3"
 },
