@@ -500,8 +500,8 @@
           "type": "Spell",
           "cost": "5"
 },
-  "RUNE-00": {
-    "id": "RUNE-00",
+  "RNE-01": {
+    "id": "RNE-01",
     "isToken": false,
     "face": {
       "front": {
@@ -516,8 +516,8 @@
         "type": "Runes",
         "cost": "0"
   },
-  "RUNE-01": {
-    "id": "RUNE-01",
+  "RNE-02": {
+    "id": "RNE-02",
     "isToken": false,
     "face": {
       "front": {
@@ -532,8 +532,8 @@
         "type": "Runes",
         "cost": "0"
   },
-  "RUNE-02": {
-    "id": "RUNE-02",
+  "RNE-03": {
+    "id": "RNE-03",
     "isToken": false,
     "face": {
       "front": {
@@ -548,8 +548,8 @@
         "type": "Runes",
         "cost": "0"
   },
-  "RUNE-03": {
-    "id": "RUNE-03",
+  "RNE-04": {
+    "id": "RNE-04",
     "isToken": false,
     "face": {
       "front": {
