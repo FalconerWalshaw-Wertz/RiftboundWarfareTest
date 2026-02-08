@@ -563,5 +563,21 @@
         "name": "Body Rune",
         "type": "Runes",
         "cost": "0"
-  }
+  },
+  "BASE-90": {
+    "id": "BASE-96",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Testy",
+        "type": "Legend",
+        "cost": "0",
+        "image": "https://i.imgur.com/Vj1Exhz.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Testy",
+        "type": "Legend",
+        "cost": "0"
+  }  
 }
