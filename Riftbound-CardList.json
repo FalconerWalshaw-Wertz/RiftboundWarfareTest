@@ -611,5 +611,53 @@
         "name": "Testy's Besty",
         "type": "Unit",
         "cost": "4"
+  },
+  "BASE-93": {
+    "id": "BASE-93",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Literally Hitler",
+        "type": "Legend",
+        "cost": "0",
+        "image": "https://i.imgur.com/fxYYYBi.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Literally Hitler",
+        "type": "Legend",
+        "cost": "0"
+  },
+  "BASE-94": {
+    "id": "BASE-94",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Otter Hut",
+        "type": "Battlefields",
+        "cost": "0",
+        "image": "https://i.imgur.com/qg7IE9Z.png",
+        "isHorizontal": true
+      }
+    },
+        "name": "Otter Hut",
+        "type": "Battlefields",
+        "cost": "0"
+  },
+  "BASE-95": {
+    "id": "BASE-95",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Total Bastard",
+        "type": "Unit",
+        "cost": "7",
+        "image": "https://i.imgur.com/I09wo6F.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Total Bastard",
+        "type": "Unit",
+        "cost": "7"
   }
 }
