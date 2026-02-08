@@ -517,7 +517,6 @@
         "type": "Runes",
         "cost": "0"
   },
-  {
   "RUNE-01": {
     "id": "RUNE-01",
     "isToken": false,
@@ -534,7 +533,6 @@
         "type": "Runes",
         "cost": "0"
   },
-  {
   "RUNE-02": {
     "id": "RUNE-02",
     "isToken": false,
@@ -551,7 +549,6 @@
         "type": "Runes",
         "cost": "0"
   },
-  {
   "RUNE-03": {
     "id": "RUNE-03",
     "isToken": false,
