@@ -259,6 +259,86 @@
           "name": "Blitzkrieg",
           "type": "Spell",
           "cost": "6"
+},
+    "BASE-16": {
+      "id": "BASE-16",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Blitzkrieg",
+          "type": "Spell",
+          "cost": "6",
+          "image": "https://i.imgur.com/FNPzzgy.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Blitzkrieg",
+          "type": "Spell",
+          "cost": "6"
+},
+    "BASE-17": {
+      "id": "BASE-17",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Well-Fed Recruit",
+          "type": "Unit",
+          "cost": "2",
+          "image": "https://i.imgur.com/IBDVy3d.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Well-Fed Recruit",
+          "type": "Unit",
+          "cost": "2"
+},
+    "BASE-18": {
+      "id": "BASE-18",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Well-Fed Infantry,
+          "type": "Unit",
+          "cost": "3",
+          "image": "https://i.imgur.com/rAiTux5.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Well-Fed Infantry,
+          "type": "Unit",
+          "cost": "3"
+},
+    "BASE-19": {
+      "id": "BASE-19",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Well-Fed Veteran",
+          "type": "Unit",
+          "cost": "4",
+          "image": "https://i.imgur.com/IPLUlO1.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Well-Fed Veteran",
+          "type": "Unit",
+          "cost": "4"
+},
+    "BASE-20": {
+      "id": "BASE-20",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Well-Fed Elite",
+          "type": "Unit",
+          "cost": "8",
+          "image": "https://i.imgur.com/xqHiIoP.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Well-Fed Elite",
+          "type": "Unit",
+          "cost": "8"
 }
 }
 
