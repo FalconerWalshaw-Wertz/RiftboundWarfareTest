@@ -585,14 +585,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Testy' House",
+        "name": "Testy's House",
         "type": "Battlefields",
         "cost": "0",
-        "image": "https://i.imgur.com/CHbh3Ht.png",
+        "image": "https://i.imgur.com/mHZoBOB.png",
         "isHorizontal": true
       }
     },
-        "name": "Testy' House",
+        "name": "Testy's House",
         "type": "Battlefields",
         "cost": "0"
   },
@@ -636,7 +636,7 @@
         "name": "Otter Hut",
         "type": "Battlefields",
         "cost": "0",
-        "image": "https://i.imgur.com/1BNpD2t.png",
+        "image": "https://i.imgur.com/enZesYr.png",
         "isHorizontal": true
       }
     },
