@@ -219,14 +219,14 @@
         "front": {
           "name": "At Dawn We Ride",
           "type": "Spell",
-          "cost": "4",
-          "image": "https://i.imgur.com/eWZGMuR.png",
+          "cost": "3",
+          "image": "https://i.imgur.com/0FiFz4s.png",
           "isHorizontal": false
       }
     },
           "name": "At Dawn We Ride",
           "type": "Spell",
-          "cost": "4"
+          "cost": "3"
 },
     "BASE-15": {
       "id": "BASE-15",
