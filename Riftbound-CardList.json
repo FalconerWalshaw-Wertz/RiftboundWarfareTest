@@ -514,7 +514,7 @@
     },
           "name": "Artillery Recruit",
           "type": "Unit",
-          "cost": "2
+          "cost": "2"
 },
     "BASE-33": {
       "id": "BASE-33",
