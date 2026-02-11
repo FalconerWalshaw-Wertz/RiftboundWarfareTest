@@ -532,6 +532,22 @@
           "type": "Unit",
           "cost": "3"
 },
+    "BASE-34": {
+      "id": "BASE-34",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Artillery Veteran",
+          "type": "Unit",
+          "cost": "4",
+          "image": "https://i.imgur.com/sLUTP19.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Artillery Veteran",
+          "type": "Unit",
+          "cost": "4"
+},
   "RUNE-01": {
     "id": "RUNE-01",
     "isToken": false,
