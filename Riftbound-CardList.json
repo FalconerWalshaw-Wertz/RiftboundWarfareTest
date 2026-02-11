@@ -580,6 +580,54 @@
           "type": "Unit",
           "cost": "7"
 },
+    "BASE-37": {
+      "id": "BASE-37",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Drive Away",
+          "type": "Spell",
+          "cost": "1",
+          "image": "https://i.imgur.com/lFgZWS2.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Drive Away",
+          "type": "Spell",
+          "cost": "1"
+},
+    "BASE-38": {
+      "id": "BASE-36",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Shields Up",
+          "type": "Spell",
+          "cost": "1",
+          "image": "https://i.imgur.com/k76HCRx.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Shields Up",
+          "type": "Spell",
+          "cost": "1"
+},
+    "BASE-39": {
+      "id": "BASE-36",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Set For Charge",
+          "type": "Spell",
+          "cost": "2",
+          "image": "https://i.imgur.com/NdInWkH.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Set For Charge",
+          "type": "Spell",
+          "cost": "2"
+},
   "RUNE-01": {
     "id": "RUNE-01",
     "isToken": false,
