@@ -524,7 +524,7 @@
           "name": "Artillery Footsoldiers",
           "type": "Unit",
           "cost": "3",
-          "image": "https://imgur.com/KLrD28T",
+          "image": "https://i.imgur.com/KLrD28T.png",
           "isHorizontal": false
       }
     },
@@ -540,7 +540,7 @@
           "name": "Artillery Veteran",
           "type": "Unit",
           "cost": "4",
-          "image": "https://imgur.com/sLUTP19",
+          "image": "https://i.imgur.com/sLUTP19.png",
           "isHorizontal": false
       }
     },
@@ -556,7 +556,7 @@
           "name": "Artillery Elite",
           "type": "Unit",
           "cost": "5",
-          "image": "https://imgur.com/w1MbMsN",
+          "image": "https://i.imgur.com/w1MbMsN.png",
           "isHorizontal": false
       }
     },
@@ -572,7 +572,7 @@
           "name": "Phalanx",
           "type": "Unit",
           "cost": "7",
-          "image": "https://imgur.com/wvwmsTy",
+          "image": "https://i.imgur.com/wvwmsTy.png",
           "isHorizontal": false
       }
     },
