@@ -548,6 +548,22 @@
           "type": "Unit",
           "cost": "4"
 },
+    "BASE-35": {
+      "id": "BASE-35",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Artillery Elite",
+          "type": "Unit",
+          "cost": "5",
+          "image": "https://i.imgur.com/w1MbMsN.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Artillery Elite",
+          "type": "Unit",
+          "cost": "5"
+},
   "RUNE-01": {
     "id": "RUNE-01",
     "isToken": false,
