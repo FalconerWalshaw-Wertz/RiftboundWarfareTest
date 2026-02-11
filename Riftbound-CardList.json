@@ -963,5 +963,21 @@
         "name": "Caere",
         "type": "Battlefields",
         "cost": "0"
+  },
+  "KAS-04": {
+    "id": "KAS-04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rescued Basilisk",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://i.imgur.com/U8j7JY4.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Rescued Basilisk",
+        "type": "Unit",
+        "cost": "3"
   }
 }
