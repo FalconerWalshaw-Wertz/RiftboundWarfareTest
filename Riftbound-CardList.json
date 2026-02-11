@@ -564,22 +564,6 @@
           "type": "Unit",
           "cost": "5"
 },
-    "BASE-36": {
-      "id": "BASE-36",
-      "isToken": false,
-      "face": {
-        "front": {
-          "name": "Phalanx",
-          "type": "Unit",
-          "cost": "7",
-          "image": "https://i.imgur.com/wvwmsTy.png",
-          "isHorizontal": false
-      }
-    },
-          "name": "Phalanx",
-          "type": "Unit",
-          "cost": "7"
-},
   "RUNE-01": {
     "id": "RUNE-01",
     "isToken": false,
