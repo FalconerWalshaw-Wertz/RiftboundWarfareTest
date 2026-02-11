@@ -628,6 +628,134 @@
           "type": "Spell",
           "cost": "2"
 },
+    "BASE-44": {
+      "id": "BASE-44",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Strategic Recruit",
+          "type": "Unit",
+          "cost": "2",
+          "image": "https://i.imgur.com/ssFW74R.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Strategic Recruit",
+          "type": "Unit",
+          "cost": "2"
+},
+    "BASE-45": {
+      "id": "BASE-45",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Strategic Footsoldier",
+          "type": "Unit",
+          "cost": "3",
+          "image": "https://i.imgur.com/ThGPoTx.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Strategic Footsoldier",
+          "type": "Unit",
+          "cost": "3"
+},
+    "BASE-46": {
+      "id": "BASE-46",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Strategic Veteran",
+          "type": "Unit",
+          "cost": "4",
+          "image": "https://i.imgur.com/dTFmjmG.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Strategic Veteran",
+          "type": "Unit",
+          "cost": "4"
+},
+    "BASE-47": {
+      "id": "BASE-47",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Strategic Elite",
+          "type": "Unit",
+          "cost": "5",
+          "image": "https://i.imgur.com/SBlAcXC.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Strategic Elite",
+          "type": "Unit",
+          "cost": "5"
+},
+    "BASE-48": {
+      "id": "BASE-48",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Outmaneuver",
+          "type": "Spell",
+          "cost": "2",
+          "image": "https://i.imgur.com/slmu3Ap.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Outmaneuver",
+          "type": "Spell",
+          "cost": "2"
+},
+    "BASE-49": {
+      "id": "BASE-49",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Build-A-Friend",
+          "type": "Spell",
+          "cost": "3",
+          "image": "https://i.imgur.com/b8XovqF.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Build-A-Friend",
+          "type": "Spell",
+          "cost": "3"
+},
+    "BASE-50": {
+      "id": "BASE-50",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Practical Exam",
+          "type": "Spell",
+          "cost": "4",
+          "image": "https://i.imgur.com/pJpGFjy.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Practical Exam",
+          "type": "Spell",
+          "cost": "4"
+},
+    "BASE-51": {
+      "id": "BASE-48",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "The Master Plan",
+          "type": "Spell",
+          "cost": "6",
+          "image": "https://i.imgur.com/0NoXlEX.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "The Master Plan",
+          "type": "Spell",
+          "cost": "6"
+},
   "RUNE-01": {
     "id": "RUNE-01",
     "isToken": false,
