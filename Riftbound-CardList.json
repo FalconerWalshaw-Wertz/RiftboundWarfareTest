@@ -659,5 +659,53 @@
         "name": "Total Bastard",
         "type": "Unit",
         "cost": "7"
+  },
+  "KAS-01": {
+    "id": "KAS-01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Defenders of Caere",
+        "type": "Legend",
+        "cost": "0",
+        "image": "https://i.imgur.com/ycUFYtd.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Defenders of Caere",
+        "type": "Legend",
+        "cost": "0"
+  },
+  "KAS-02": {
+    "id": "KAS-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alexander DeFontaine",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.imgur.com/Y4EwG1t.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Alexander DeFontaine",
+        "type": "Unit",
+        "cost": "2"
+  },
+  "KAS-03": {
+    "id": "KAS-03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caere",
+        "type": "Battlefields",
+        "cost": "0",
+        "image": "https://i.imgur.com/USslRGJ.png",
+        "isHorizontal": true
+      }
+    },
+        "name": "Caere",
+        "type": "Battlefields",
+        "cost": "0"
   }
 }
