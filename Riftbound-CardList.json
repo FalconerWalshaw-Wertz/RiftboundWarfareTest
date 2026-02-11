@@ -516,6 +516,22 @@
           "type": "Unit",
           "cost": "2"
 },
+    "BASE-33": {
+      "id": "BASE-33",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Artillery Footsoldiers",
+          "type": "Unit",
+          "cost": "3",
+          "image": "https://i.imgur.com/KLrD28T.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Artillery Footsoldiers",
+          "type": "Unit",
+          "cost": "3"
+},
   "RUNE-01": {
     "id": "RUNE-01",
     "isToken": false,
