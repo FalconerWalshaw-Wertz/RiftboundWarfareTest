@@ -516,6 +516,22 @@
           "type": "Unit",
           "cost": "2"
 },
+    "BASE-32a": {
+      "id": "BASE-32a",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Artillery Recruit",
+          "type": "Unit",
+          "cost": "2",
+          "image": "https://i.imgur.com/4WMzld6.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Artillery Recruit",
+          "type": "Unit",
+          "cost": "2"
+},
     "BASE-33": {
       "id": "BASE-33",
       "isToken": false,
