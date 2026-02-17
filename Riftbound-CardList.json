@@ -284,7 +284,7 @@
           "name": "Well-Fed Infantry",
           "type": "Unit",
           "cost": "3",
-          "image": "https://i.imgur.com/rAiTux5.png",
+          "image": "https://i.imgur.com/Av23UM2.png",
           "isHorizontal": false
       }
     },
@@ -316,7 +316,7 @@
           "name": "Well-Fed Elite",
           "type": "Unit",
           "cost": "8",
-          "image": "https://i.imgur.com/xqHiIoP.png",
+          "image": "https://i.imgur.com/SXZJstG.png",
           "isHorizontal": false
       }
     },
