@@ -852,6 +852,86 @@
           "type": "Unit",
           "cost": "4"
 },
+    "BASE-71": {
+      "id": "BASE-71",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Rally The Troops",
+          "type": "Spell",
+          "cost": "2",
+          "image": "https://i.imgur.com/hNT5D5N.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Rally The Troops",
+          "type": "Spell",
+          "cost": "2"
+},
+    "BASE-72": {
+      "id": "BASE-72",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Got Your Back",
+          "type": "Spell",
+          "cost": "2",
+          "image": "https://i.imgur.com/778dc9L.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Got Your Back",
+          "type": "Spell",
+          "cost": "2"
+},
+    "BASE-73": {
+      "id": "BASE-73",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Corporal Punishment",
+          "type": "Spell",
+          "cost": "2",
+          "image": "https://i.imgur.com/aY2PRSi.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Corporal Punishment",
+          "type": "Spell",
+          "cost": "2"
+},
+    "BASE-74": {
+      "id": "BASE-74",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Call to Order",
+          "type": "Spell",
+          "cost": "3",
+          "image": "https://i.imgur.com/0TX7Qqi.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Call to Order",
+          "type": "Spell",
+          "cost": "3"
+},
+    "BASE-75": {
+      "id": "BASE-75",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Damn",
+          "type": "Spell",
+          "cost": "4",
+          "image": "https://i.imgur.com/C0Z6CGk.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Damn",
+          "type": "Spell",
+          "cost": "4"
+},
   "RUNE-01": {
     "id": "RUNE-01",
     "isToken": false,
