@@ -1251,5 +1251,21 @@
         "name": "Made By The Blue",
         "type": "Spell",
         "cost": "4"
+  },
+  "KAS-09": {
+    "id": "KAS-09",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Recruit (Gnoll)",
+        "type": "Unit",
+        "cost": "0",
+        "image": "https://i.imgur.com/bOfQw6w.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Recruit (Gnoll)",
+        "type": "Unit",
+        "cost": "0"
   }
 }
