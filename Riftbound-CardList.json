@@ -804,8 +804,8 @@
           "type": "Unit",
           "cost": "3"
 },
-    "BASE-68": {
-      "id": "BASE-68",
+    "BASE-69": {
+      "id": "BASE-69",
       "isToken": false,
       "face": {
         "front": {
@@ -820,8 +820,8 @@
           "type": "Unit",
           "cost": "4"
 },
-    "BASE-69": {
-      "id": "BASE-69",
+    "BASE-70": {
+      "id": "BASE-70",
       "isToken": false,
       "face": {
         "front": {
@@ -836,8 +836,8 @@
           "type": "Unit",
           "cost": "6"
 },
-    "BASE-70": {
-      "id": "BASE-70",
+    "BASE-71": {
+      "id": "BASE-71",
       "isToken": false,
       "face": {
         "front": {
@@ -852,8 +852,8 @@
           "type": "Unit",
           "cost": "4"
 },
-    "BASE-71": {
-      "id": "BASE-71",
+    "BASE-72": {
+      "id": "BASE-72",
       "isToken": false,
       "face": {
         "front": {
@@ -868,8 +868,8 @@
           "type": "Spell",
           "cost": "2"
 },
-    "BASE-72": {
-      "id": "BASE-72",
+    "BASE-73": {
+      "id": "BASE-73",
       "isToken": false,
       "face": {
         "front": {
@@ -884,8 +884,8 @@
           "type": "Spell",
           "cost": "2"
 },
-    "BASE-73": {
-      "id": "BASE-73",
+    "BASE-74": {
+      "id": "BASE-74",
       "isToken": false,
       "face": {
         "front": {
@@ -900,8 +900,8 @@
           "type": "Spell",
           "cost": "2"
 },
-    "BASE-74": {
-      "id": "BASE-74",
+    "BASE-75": {
+      "id": "BASE-75",
       "isToken": false,
       "face": {
         "front": {
@@ -916,8 +916,8 @@
           "type": "Spell",
           "cost": "3"
 },
-    "BASE-75": {
-      "id": "BASE-75",
+    "BASE-76": {
+      "id": "BASE-76",
       "isToken": false,
       "face": {
         "front": {
