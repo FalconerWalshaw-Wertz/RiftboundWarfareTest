@@ -772,6 +772,86 @@
           "type": "Spell",
           "cost": "6"
 },
+    "BASE-67": {
+      "id": "BASE-67",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Conscription Recruit",
+          "type": "Unit",
+          "cost": "2",
+          "image": "https://i.imgur.com/ikulUbt.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Conscription Recruit",
+          "type": "Unit",
+          "cost": "2"
+},
+    "BASE-68": {
+      "id": "BASE-68",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Conscription Infantry",
+          "type": "Unit",
+          "cost": "3",
+          "image": "https://i.imgur.com/TsUrYPg.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Conscription Infantry",
+          "type": "Unit",
+          "cost": "3"
+},
+    "BASE-68": {
+      "id": "BASE-68",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Conscription Veteran",
+          "type": "Unit",
+          "cost": "4",
+          "image": "https://i.imgur.com/YLd2xUr.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Conscription Veteran",
+          "type": "Unit",
+          "cost": "4"
+},
+    "BASE-69": {
+      "id": "BASE-69",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Conscription Elite",
+          "type": "Unit",
+          "cost": "6",
+          "image": "https://i.imgur.com/m2ea1Q2.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Conscription Elite",
+          "type": "Unit",
+          "cost": "6"
+},
+    "BASE-70": {
+      "id": "BASE-70",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Grand Marshal",
+          "type": "Unit",
+          "cost": "4",
+          "image": "https://i.imgur.com/B7kEOUH.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Grand Marshal",
+          "type": "Unit",
+          "cost": "4"
+},
   "RUNE-01": {
     "id": "RUNE-01",
     "isToken": false,
