@@ -1254,7 +1254,7 @@
   },
   "KAS-09": {
     "id": "KAS-09",
-    "isToken": true,
+
     "face": {
       "front": {
         "name": "Recruit (Gnoll)",
@@ -1266,6 +1266,7 @@
     },
         "name": "Recruit (Gnoll)",
         "type": "Unit",
-        "cost": "0"
+        "cost": "0",
+        "isToken": true
   }
 }
