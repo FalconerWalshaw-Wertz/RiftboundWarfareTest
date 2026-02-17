@@ -996,6 +996,38 @@
         "type": "Runes",
         "cost": "0"
   },
+  "RUNE-05": {
+    "id": "RUNE-05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chaos Rune",
+        "type": "Runes",
+        "cost": "0",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fbcde2f71fcc06fb8afc83855e24447a393f8943-1488x2078.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Chaos Rune",
+        "type": "Runes",
+        "cost": "0"
+  },
+  "RUNE-06": {
+    "id": "RUNE-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Order Rune",
+        "type": "Runes",
+        "cost": "0",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0e4904221c3bbbfcfde1734bc414dbe97c67e295-1488x2078.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Order Rune",
+        "type": "Runes",
+        "cost": "0"
+  },
   "BASE-90": {
     "id": "BASE-90",
     "isToken": false,
