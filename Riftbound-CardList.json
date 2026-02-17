@@ -1155,5 +1155,69 @@
         "name": "Rescued Basilisk",
         "type": "Unit",
         "cost": "3"
+  },
+  "KAS-05": {
+    "id": "KAS-05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nobody's Fool",
+        "type": "Legend",
+        "cost": "0",
+        "image": "https://i.imgur.com/lHqhlJO.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Nobody's Fool",
+        "type": "Legend",
+        "cost": "0"
+  },
+  "KAS-06": {
+    "id": "KAS-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jennifer Of Manth",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://i.imgur.com/eu9xKAu.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Jennifer Of Manth",
+        "type": "Unit",
+        "cost": "4"
+  },
+  "KAS-07": {
+    "id": "KAS-07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Manth",
+        "type": "Battlefields",
+        "cost": "0",
+        "image": "https://i.imgur.com/aZGAtjj.png",
+        "isHorizontal": true
+      }
+    },
+        "name": "Manth",
+        "type": "Battlefields",
+        "cost": "0"
+  },
+  "KAS-08": {
+    "id": "KAS-08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Made By The Blue",
+        "type": "Spell",
+        "cost": "4",
+        "image": "https://i.imgur.com/o9mRTTU.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Made By The Blue",
+        "type": "Spell",
+        "cost": "4"
   }
 }
