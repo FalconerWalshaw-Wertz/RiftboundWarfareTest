@@ -1028,20 +1028,19 @@
         "type": "Runes",
         "cost": "0"
   },
-  "BASE-90": {
-    "id": "BASE-90",
-    "isToken": false,
+  "BASE-100": {
+    "id": "BASE-100",
     "face": {
       "front": {
-        "name": "Testy",
-        "type": "Legend",
+        "name": "Seal of Unity",
+        "type": "Gear",
         "cost": "0",
-        "image": "https://i.imgur.com/Vj1Exhz.png",
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e6fbd41d69bc0d235ea7993d2e9fa74e75e17dff-744x1039.png",
         "isHorizontal": false
       }
     },
-        "name": "Testy",
-        "type": "Legend",
+        "name": "Seal of Unity",
+        "type": "Gear",
         "cost": "0"
   },
   "BASE-91": {
