@@ -1029,7 +1029,8 @@
         "cost": "0"
   },
   "BASE-90": {
-    "id": "BASE-100",
+    "id": "BASE-90",
+    "isToken": false,
     "face": {
       "front": {
         "name": "Seal of Unity",
