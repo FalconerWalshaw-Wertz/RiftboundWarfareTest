@@ -1198,7 +1198,7 @@
         "image": "https://i.imgur.com/fHYooMQ.png",
         "isHorizontal": false
       },
-       "back": {
+    "back": {
         "name": "Heir to the Clan",
         "type": "Legend",
         "cost": "0",
