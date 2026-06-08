@@ -1197,6 +1197,13 @@
         "cost": "0",
         "image": "https://i.imgur.com/fHYooMQ.png",
         "isHorizontal": false
+      },
+      "back": {
+        "name": "Heir to the Clan",
+        "type": "Legend",
+        "cost": "0",
+        "image": "https://i.imgur.com/81zWhYY.png",
+        "isHorizontal": false
       }
     },
         "name": "Exiled Conqueror",
