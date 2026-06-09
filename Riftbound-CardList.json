@@ -1295,7 +1295,23 @@
         "isHorizontal": false
       }
     },
-        "name": "Recruit (Gnoll)",
+        "name": "Recruit",
+        "type": "Unit",
+        "cost": "0",
+        "isToken": true
+  },
+  "KAS-09": {
+    "id": "KAS-09",
+    "face": {
+      "front": {
+        "name": "Recruit (Monk)",
+        "type": "Unit",
+        "cost": "0",
+        "image": "https://i.imgur.com/m6QgzqQ.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Recruit",
         "type": "Unit",
         "cost": "0",
         "isToken": true
