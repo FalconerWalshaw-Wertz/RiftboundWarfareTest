@@ -1300,7 +1300,7 @@
         "cost": "0",
         "isToken": true
   },
-  "KAS-09": {
+  "KAS-09B": {
     "id": "KAS-09",
     "face": {
       "front": {
@@ -1308,6 +1308,22 @@
         "type": "Unit",
         "cost": "0",
         "image": "https://i.imgur.com/m6QgzqQ.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Recruit",
+        "type": "Unit",
+        "cost": "0",
+        "isToken": true
+  },
+  "KAS-09C": {
+    "id": "KAS-09",
+    "face": {
+      "front": {
+        "name": "Recruit (Orc)",
+        "type": "Unit",
+        "cost": "0",
+        "image": "https://i.imgur.com/yJOjEpi.png",
         "isHorizontal": false
       }
     },
@@ -1382,5 +1398,82 @@
         "name": "Rekala, Star Pupil",
         "type": "Unit",
         "cost": "4"
+  },
+  "KAS-14": {
+    "id": "KAS-14",
+    "face": {
+      "front": {
+        "name": "Vaxagran, Son of Blood",
+        "type": "Legend",
+        "cost": "0",
+        "image": "https://i.imgur.com/QFnQ0KU.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Vaxagran, Son of Blood",
+        "type": "Legend",
+        "cost": "0"
+  },
+  "KAS-15": {
+    "id": "KAS-15",
+    "face": {
+      "front": {
+        "name": "Vagras, Bloodmother",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://i.imgur.com/ugebgzz.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Vagras, Bloodmother",
+        "type": "Unit",
+        "cost": "5"
+  },
+  "KAS-16": {
+    "id": "KAS-16",
+    "face": {
+      "front": {
+        "name": "Marrza, Loyal Priestess",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.imgur.com/F95EHSI.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Marrza, Loyal Priestess",
+        "type": "Unit",
+        "cost": "2"
+  },
+  "KAS-17": {
+    "id": "KAS-17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "War Camp",
+        "type": "Battlefields",
+        "cost": "0",
+        "image": "https://i.imgur.com/dXXm35x.png",
+        "isHorizontal": true
+      }
+    },
+        "name": "War Camp",
+        "type": "Battlefields",
+        "cost": "0"
+  },
+  "KAS-18": {
+    "id": "KAS-18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Southtown",
+        "type": "Battlefields",
+        "cost": "0",
+        "image": "https://i.imgur.com/b37gtLg.png",
+        "isHorizontal": true
+      }
+    },
+        "name": "Southtown",
+        "type": "Battlefields",
+        "cost": "0"
   }
 }
