@@ -1300,38 +1300,6 @@
         "cost": "0",
         "isToken": true
   },
-  "KAS-99": {
-    "id": "KAS-99",
-    "face": {
-      "front": {
-        "name": "Recruit (Monk)",
-        "type": "Unit",
-        "cost": "0",
-        "image": "https://i.imgur.com/m6QgzqQ.png",
-        "isHorizontal": false
-      }
-    },
-        "name": "Recruit",
-        "type": "Unit",
-        "cost": "0",
-        "isToken": true
-  },
-  "KAS-98": {
-    "id": "KAS-98",
-    "face": {
-      "front": {
-        "name": "Recruit (Orc)",
-        "type": "Unit",
-        "cost": "0",
-        "image": "https://i.imgur.com/yJOjEpi.png",
-        "isHorizontal": false
-      }
-    },
-        "name": "Recruit",
-        "type": "Unit",
-        "cost": "0",
-        "isToken": true
-  },
   "KAS-10": {
     "id": "KAS-10",
     "face": {
