@@ -852,6 +852,38 @@
           "type": "Spell",
           "cost": "1"
 },
+    "BASE-65": {
+      "id": "BASE-65",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Legionary Recruit",
+          "type": "Unit",
+          "cost": "2",
+          "image": "https://i.imgur.com/19KEwvm.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Legionary Recruit",
+          "type": "Unit",
+          "cost": "2"
+},
+    "BASE-66": {
+      "id": "BASE-66",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Legionary Veteran",
+          "type": "Unit",
+          "cost": "3",
+          "image": "https://i.imgur.com/CAqPNSX.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Legionary Veteran",
+          "type": "Unit",
+          "cost": "3"
+},
     "BASE-67": {
       "id": "BASE-67",
       "isToken": false,
