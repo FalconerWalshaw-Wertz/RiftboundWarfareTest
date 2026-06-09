@@ -1459,6 +1459,7 @@
         "name": "War Camp",
         "type": "Battlefields",
         "cost": "0"
+        "isHorizontal": true
   },
   "KAS-18": {
     "id": "KAS-18",
@@ -1475,5 +1476,6 @@
         "name": "Southtown",
         "type": "Battlefields",
         "cost": "0"
+        "isHorizontal": true
   }
 }
