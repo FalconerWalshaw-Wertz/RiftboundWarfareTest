@@ -713,6 +713,54 @@
       "isToken": false,
       "face": {
         "front": {
+          "name": "Wargames Recruit",
+          "type": "Unit",
+          "cost": "2",
+          "image": "https://i.imgur.com/QkSrRfg.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Wargames Recruit",
+          "type": "Unit",
+          "cost": "2"
+},
+    "BASE-49": {
+      "id": "BASE-49",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Wargames Footsoldier",
+          "type": "Unit",
+          "cost": "3",
+          "image": "https://i.imgur.com/MxcqOX8.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Wargames Footsoldier",
+          "type": "Unit",
+          "cost": "3"
+},
+    "BASE-50": {
+      "id": "BASE-50",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Wargames Veteran",
+          "type": "Unit",
+          "cost": "4",
+          "image": "https://i.imgur.com/3e6NsdC.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Wargames Veteran",
+          "type": "Unit",
+          "cost": "4"
+},
+    "BASE-52": {
+      "id": "BASE-52",
+      "isToken": false,
+      "face": {
+        "front": {
           "name": "Outmaneuver",
           "type": "Spell",
           "cost": "2",
@@ -724,8 +772,8 @@
           "type": "Spell",
           "cost": "2"
 },
-    "BASE-49": {
-      "id": "BASE-49",
+    "BASE-53": {
+      "id": "BASE-53",
       "isToken": false,
       "face": {
         "front": {
@@ -740,8 +788,8 @@
           "type": "Spell",
           "cost": "3"
 },
-    "BASE-50": {
-      "id": "BASE-50",
+    "BASE-54": {
+      "id": "BASE-54",
       "isToken": false,
       "face": {
         "front": {
@@ -756,8 +804,8 @@
           "type": "Spell",
           "cost": "4"
 },
-    "BASE-51": {
-      "id": "BASE-51",
+    "BASE-55": {
+      "id": "BASE-55",
       "isToken": false,
       "face": {
         "front": {
@@ -771,6 +819,38 @@
           "name": "The Master Plan",
           "type": "Spell",
           "cost": "6"
+},
+    "BASE-56": {
+      "id": "BASE-56",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Retreat",
+          "type": "Spell",
+          "cost": "1",
+          "image": "https://i.imgur.com/XBViIY0.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Retreat",
+          "type": "Spell",
+          "cost": "1"
+},
+    "BASE-57": {
+      "id": "BASE-57",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Now You Don't",
+          "type": "Spell",
+          "cost": "1",
+          "image": "https://i.imgur.com/VQKbjWJ.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Now You Don't",
+          "type": "Spell",
+          "cost": "1"
 },
     "BASE-67": {
       "id": "BASE-67",
