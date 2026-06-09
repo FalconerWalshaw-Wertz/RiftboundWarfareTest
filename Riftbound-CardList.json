@@ -1209,5 +1209,50 @@
         "name": "Exiled Conqueror",
         "type": "Legend",
         "cost": "0"
+  },
+  "KAS-11": {
+    "id": "KAS-11",
+    "face": {
+      "front": {
+        "name": "Bethany, Watchdog",
+        "type": "Unit",
+        "cost": "1",
+        "image": "https://i.imgur.com/mXhNKvP.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Bethany, Watchdog",
+        "type": "Unit",
+        "cost": "1"
+  },
+  "KAS-12": {
+    "id": "KAS-12",
+    "face": {
+      "front": {
+        "name": "Defender of Caere",
+        "type": "Legend",
+        "cost": "0",
+        "image": "https://i.imgur.com/DYac7qy.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Defender of Caere",
+        "type": "Legend",
+        "cost": "0"
+  },
+  "KAS-13": {
+    "id": "KAS-09",
+    "face": {
+      "front": {
+        "name": "Rekala, Star Pupil",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://i.imgur.com/5l3P5rR.png",
+        "isHorizontal": false
+      }
+    },
+        "name": "Rekala, Star Pupil",
+        "type": "Unit",
+        "cost": "4"
   }
 }
