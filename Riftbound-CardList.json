@@ -1300,8 +1300,8 @@
         "cost": "0",
         "isToken": true
   },
-  "KAS-09B": {
-    "id": "KAS-09",
+  "KAS-99": {
+    "id": "KAS-99",
     "face": {
       "front": {
         "name": "Recruit (Monk)",
@@ -1316,8 +1316,8 @@
         "cost": "0",
         "isToken": true
   },
-  "KAS-09C": {
-    "id": "KAS-09",
+  "KAS-98": {
+    "id": "KAS-98",
     "face": {
       "front": {
         "name": "Recruit (Orc)",
