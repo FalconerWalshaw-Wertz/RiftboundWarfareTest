@@ -172,7 +172,7 @@
           "name": "Lay Claim",
           "type": "Spell",
           "cost": "1",
-          "image": "https://i.imgur.com/IJsR6bn.png",
+          "image": "https://i.imgur.com/JC0eP1e.png",
           "isHorizontal": false
       }
     },
@@ -204,7 +204,7 @@
           "name": "Over The Top",
           "type": "Spell",
           "cost": "3",
-          "image": "https://i.imgur.com/4Jwtron.png",
+          "image": "https://i.imgur.com/T9q8rwr.png",
           "isHorizontal": false
       }
     },
