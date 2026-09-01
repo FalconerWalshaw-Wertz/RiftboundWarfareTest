@@ -1056,9 +1056,9 @@
           "isHorizontal": false
       }
     },
-          "name": "Damn",
-          "type": "Spell",
-          "cost": "4"
+          "name": "Levy",
+          "type": "Unit",
+          "cost": "3"
 },
   "RUNE-01": {
     "id": "RUNE-01",
