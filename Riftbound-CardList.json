@@ -1044,6 +1044,22 @@
           "type": "Spell",
           "cost": "4"
 },
+    "BASE-77": {
+      "id": "BASE-77",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Levy",
+          "type": "Unit",
+          "cost": "3",
+          "image": "https://i.imgur.com/Wg9k5nP.png",
+          "isHorizontal": false
+      }
+    },
+          "name": "Damn",
+          "type": "Spell",
+          "cost": "4"
+},
   "RUNE-01": {
     "id": "RUNE-01",
     "isToken": false,
