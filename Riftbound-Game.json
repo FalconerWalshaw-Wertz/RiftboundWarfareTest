@@ -50,7 +50,7 @@
       }
     ],
     "deckRulesets": {
-            "Strandard": {
+            "Standard": {
                 "reversedLegality": true,
                 "general": {
                     "min": 54,
