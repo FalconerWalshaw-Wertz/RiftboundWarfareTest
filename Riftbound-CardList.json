@@ -1536,9 +1536,57 @@
         "isHorizontal": false
       }
     },
-        "name": "LAdy At Arms",
+        "name": "Lady At Arms",
         "type": "Legend",
         "cost": "0"
+  },
+  "HEL-06": {
+    "id": "HEL-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Malerix",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/malerix-9d2an3f3a/cmuh7c5y30001356y2n4szia9.png?format=webp&width=900&quality=100",
+        "isHorizontal": false
+      }
+    },
+        "name": "Malerix",
+        "type": "Unit",
+        "cost": "6"
+  },
+  "HEL-07": {
+    "id": "HEL-07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dick Ripley",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/dick-ripley-9r8p3u9z/cmuhdzl8p0003356ymoz3ih9o.png?format=webp&width=900&quality=100",
+        "isHorizontal": false
+      }
+    },
+        "name": "Dick Ripley",
+        "type": "Unit",
+        "cost": "4"
+  },
+  "HEL-08": {
+    "id": "HEL-08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Concordia",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/condordia-fq9c3urz/cmuhedv8d0005356yfq21lleb.png?format=webp&width=900&quality=100",
+        "isHorizontal": false
+      }
+    },
+        "name": "Concordia",
+        "type": "Unit",
+        "cost": "5"
   }
   
 }
