@@ -1507,6 +1507,38 @@
         "name": "Loyal Hound",
         "type": "Legend",
         "cost": "0"
+  },
+  "HEL-04": {
+    "id": "HEL-04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Talent Scout",
+        "type": "Legend",
+        "cost": "0",
+        "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/talent-scout-47213fnc/cmufmxf0j0001357iaf8szpqj.png?format=webp&width=900&quality=100",
+        "isHorizontal": false
+      }
+    },
+        "name": "Talent Scout",
+        "type": "Legend",
+        "cost": "0"
+  },
+  "HEL-05": {
+    "id": "HEL-05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lady At Arms",
+        "type": "Legend",
+        "cost": "0",
+        "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/lady-at-arms-on2i3f8p/cmufn04km0000356yei6n45zk.png?format=webp&width=900&quality=100",
+        "isHorizontal": false
+      }
+    },
+        "name": "LAdy At Arms",
+        "type": "Legend",
+        "cost": "0"
   }
   
 }
