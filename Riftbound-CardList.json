@@ -1465,14 +1465,46 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Efa, Witch of Faren",
+        "name": "Witch of Faren",
         "type": "Legend",
         "cost": "0",
         "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/witch-of-faren-uw5r3ftl/cmugzcup80001357jy3zh7wf3.png?format=webp&width=900&quality=100",
         "isHorizontal": false
       }
     },
-        "name": "Efa, Witch of Faren",
+        "name": "Witch of Faren",
+        "type": "Legend",
+        "cost": "0"
+  },
+  "HEL-02": {
+    "id": "HEL-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ashglade de Qimil",
+        "type": "Legend",
+        "cost": "0",
+        "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/ashglade-de-qimil-p15m3f4c/cmufojhsh0000356ymugjm5fo.png?format=webp&width=900&quality=100",
+        "isHorizontal": false
+      }
+    },
+        "name": "Ashglade de Qimil",
+        "type": "Legend",
+        "cost": "0"
+  },
+  "HEL-03": {
+    "id": "HEL-03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Loyal Hound",
+        "type": "Legend",
+        "cost": "0",
+        "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/loyal-hound-rn3p3fdx/cmufnpcmo0001356y5talfqvp.png?format=webp&width=900&quality=100",
+        "isHorizontal": false
+      }
+    },
+        "name": "Loyal Hound",
         "type": "Legend",
         "cost": "0"
   }
