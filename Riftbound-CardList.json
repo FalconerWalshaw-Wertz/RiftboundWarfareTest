@@ -820,6 +820,22 @@
           "type": "Unit",
           "cost": "4"
 },
+    "BASE-51": {
+      "id": "BASE-51",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Wargames Elite",
+          "type": "Unit",
+          "cost": "5",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/wargames-elite-cv1h42uki/cmuil13ug000j356xy165amge.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Wargames Elite",
+          "type": "Unit",
+          "cost": "5"
+},
     "BASE-52": {
       "id": "BASE-52",
       "isToken": false,
@@ -915,6 +931,38 @@
           "name": "Now You Don't",
           "type": "Spell",
           "cost": "1"
+},
+    "BASE-58": {
+      "id": "BASE-58",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Grand Tactician",
+          "type": "Unit",
+          "cost": "7",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/grand-tactician-wy1hl2ufi/cmuil6tb2000l356xbr8k94o2.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Grand Tactician",
+          "type": "Unit",
+          "cost": "7"
+},
+    "BASE-59": {
+      "id": "BASE-59",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Just The Way We Drew It Up",
+          "type": "Spell",
+          "cost": "4",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/just-the-way-we-drew-nv1hv2ue7/cmuilc871000n356x81zjbwt8.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Just The Way We Drew It Up",
+          "type": "Spell",
+          "cost": "4"
 },
     "BASE-65": {
       "id": "BASE-65",
