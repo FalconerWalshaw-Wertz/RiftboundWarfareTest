@@ -987,14 +987,14 @@
         "front": {
           "name": "Legionary Veteran",
           "type": "Unit",
-          "cost": "3",
-          "image": "https://i.imgur.com/CAqPNSX.png",
+          "cost": "4",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/legionary-veteran-z71nm2u1s/cmuino2ly001o356x6omdz4ji.png?format=webp&width=900&quality=100",
           "isHorizontal": false
       }
     },
           "name": "Legionary Veteran",
           "type": "Unit",
-          "cost": "3"
+          "cost": "4"
 },
     "BASE-67": {
       "id": "BASE-67",
