@@ -828,7 +828,7 @@
           "name": "Wargames Elite",
           "type": "Unit",
           "cost": "5",
-          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/wargames-elite-cv1h42uki/cmuil13ug000j356xy165amge.png?format=webp&width=900&quality=100",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/wargames-elite-cv1h42uki/cmuincnex001k356xvjr1aasw.png?format=webp&width=900&quality=100",
           "isHorizontal": false
       }
     },
@@ -940,7 +940,7 @@
           "name": "Grand Tactician",
           "type": "Unit",
           "cost": "7",
-          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/grand-tactician-wy1hl2ufi/cmuil6tb2000l356xbr8k94o2.png?format=webp&width=900&quality=100",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/grand-tactician-wy1hl2ufi/cmuindnqi001l356x8m9g3gff.png?format=webp&width=900&quality=100",
           "isHorizontal": false
       }
     },
@@ -1228,7 +1228,7 @@
           "name": "Guerilla Recruit",
           "type": "Unit",
           "cost": "2",
-          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/guerilla-recruit-ju1is2urq/cmuilp9u0000p356xn71cexnv.png?format=webp&width=900&quality=100",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/guerilla-recruit-ju1is2urq/cmuineqlx001m356xurtjl0sg.png?format=webp&width=900&quality=100",
           "isHorizontal": false
       }
     },
@@ -1244,7 +1244,7 @@
           "name": "Saboteur Recruit",
           "type": "Unit",
           "cost": "2",
-          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/saboteur-recruit-tg1jb2u6e/cmuiltf4j000r356x06jdusa6.png?format=webp&width=900&quality=100",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/saboteur-recruit-tg1jb2u6e/cmuing56w0000356ybgk10sya.png?format=webp&width=900&quality=100",
           "isHorizontal": false
       }
     },
@@ -1260,7 +1260,7 @@
           "name": "Guerilla Infantry",
           "type": "Unit",
           "cost": "3",
-          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/guerilla-infantry-6c1jm2uqa/cmuilwsqp000t356xgenxm9km.png?format=webp&width=900&quality=100",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/guerilla-infantry-6c1jm2uqa/cmuing8ev0000356y0pd2ns2z.png?format=webp&width=900&quality=100",
           "isHorizontal": false
       }
     },
@@ -1276,7 +1276,7 @@
           "name": "Saboteur Infantry",
           "type": "Unit",
           "cost": "3",
-          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/saboteur-infantry-lc1jq2u26/cmuilyv6e000v356x2ul657a7.png?format=webp&width=900&quality=100",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/saboteur-infantry-lc1jq2u26/cmuingcqf0000356yfhdbt3hc.png?format=webp&width=900&quality=100",
           "isHorizontal": false
       }
     },
@@ -1292,7 +1292,7 @@
           "name": "Guerilla Veteran",
           "type": "Unit",
           "cost": "4",
-          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/guerilla-veteran-bc1ki2un0/cmuim4gq70011356xkrd5t0o2.png?format=webp&width=900&quality=100",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/guerilla-veteran-bc1ki2un0/cmuingqi80000356yanfudahw.png?format=webp&width=900&quality=100",
           "isHorizontal": false
       }
     },
@@ -1308,7 +1308,7 @@
           "name": "Saboteur Veteran",
           "type": "Unit",
           "cost": "4",
-          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/saboteur-veteran-gt1jy2ujh/cmuim09sr000x356x63vxj30t.png?format=webp&width=900&quality=100",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/saboteur-veteran-gt1jy2ujh/cmuingia20000356yrhso59qv.png?format=webp&width=900&quality=100",
           "isHorizontal": false
       }
     },
@@ -1324,7 +1324,7 @@
           "name": "Guerilla Elite",
           "type": "Unit",
           "cost": "6",
-          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/guerilla-elite-go1kn2u9m/cmuim65pk0013356xufb4awt3.png?format=webp&width=900&quality=100",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/guerilla-elite-go1kn2u9m/cmuingvme0000356yt8m38rre.png?format=webp&width=900&quality=100",
           "isHorizontal": false
       }
     },
@@ -1340,7 +1340,7 @@
           "name": "Saboteur Elite",
           "type": "Unit",
           "cost": "5",
-          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/saboteur-elite-vf1k22ufi/cmuim207d000z356x8qvkqn2d.png?format=webp&width=900&quality=100",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/saboteur-elite-vf1k22ufi/cmuingmai0000356yl7w3wmgv.png?format=webp&width=900&quality=100",
           "isHorizontal": false
       }
     },
@@ -1356,7 +1356,7 @@
           "name": "Turncoat",
           "type": "Unit",
           "cost": "8",
-          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/turncoat-xk1kw2uey/cmuim7m940015356xagd951uc.png?format=webp&width=900&quality=100",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/turncoat-xk1kw2uey/cmuinh0hm0000356y8ykw5rdh.png?format=webp&width=900&quality=100",
           "isHorizontal": false
       }
     },
