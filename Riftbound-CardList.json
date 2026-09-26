@@ -1460,6 +1460,54 @@
           "type": "Spell",
           "cost": "5"
 },
+    "BASE-96": {
+      "id": "BASE-96",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Legionary Veteran",
+          "type": "Unit",
+          "cost": "4",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/legionary-veteran-z71nm2u1s/cmuino2ly001o356x6omdz4ji.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Legionary Veteran",
+          "type": "Unit",
+          "cost": "4"
+},
+    "BASE-97": {
+      "id": "BASE-97",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Legionary Elite",
+          "type": "Unit",
+          "cost": "8",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/legionary-elite-3p1nq2u5u/cmuinq8qc001q356x7ajcayju.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Legionary Elite",
+          "type": "Unit",
+          "cost": "8"
+},
+    "BASE-98": {
+      "id": "BASE-98",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Divine Judgment",
+          "type": "Spell",
+          "cost": "7",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/divine-judgment-pz1o72u0w/cmuinyhdc0001357ixvd4z8xh.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Divine Judgment",
+          "type": "Spell",
+          "cost": "7"
+},
   "RUNE-01": {
     "id": "RUNE-01",
     "isToken": false,
