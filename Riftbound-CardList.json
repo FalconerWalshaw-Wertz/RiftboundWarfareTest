@@ -2035,5 +2035,37 @@
         "name": "Concordia",
         "type": "Unit",
         "cost": "5"
+  },
+  "HEL-09": {
+    "id": "HEL-09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arioxh",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/arioxh-na1pb2uv9/cmuiokdb30003357i48f72cas.png?format=webp&width=900&quality=100",
+        "isHorizontal": false
+      }
+    },
+        "name": "Arioxh",
+        "type": "Unit",
+        "cost": "2"
+  },
+  "HEL-10": {
+    "id": "HEL-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Project",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/project-er1q72u2j/cmuioxbgx0001356yb6hamae5.png?format=webp&width=900&quality=100",
+        "isHorizontal": false
+      }
+    },
+        "name": "Project",
+        "type": "Unit",
+        "cost": "4"
   }
 }
