@@ -644,6 +644,70 @@
           "type": "Spell",
           "cost": "2"
 },
+    "BASE-40": {
+      "id": "BASE-40",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Bastion Recruit",
+          "type": "Unit",
+          "cost": "2",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/bastion-recruit-xm1a72utc/cmuihzz8i0002356xad1otq4z.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Bastion Recruit",
+          "type": "Unit",
+          "cost": "2"
+},
+    "BASE-41": {
+      "id": "BASE-41",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Bastion Footsoldiers",
+          "type": "Unit",
+          "cost": "3",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/bastion-footsoldiers-ig1ct2uhw/cmuiiwbtc0004356xnq9ie2j8.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Bastion Footsoldiers",
+          "type": "Unit",
+          "cost": "3"
+},
+    "BASE-42": {
+      "id": "BASE-42",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Bastion Veteran",
+          "type": "Unit",
+          "cost": "4",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/bastion-veteran-af1d92um9/cmuij2ypw0007356xo56l370o.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Bastion Veteran",
+          "type": "Unit",
+          "cost": "4"
+},
+    "BASE-43": {
+      "id": "BASE-43",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Bastion Elite",
+          "type": "Unit",
+          "cost": "5",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/bastion-elite-aa1dy2uoz/cmuijj4sr0009356xqr9m12wo.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Bastion Elite",
+          "type": "Unit",
+          "cost": "5"
+},
     "BASE-44": {
       "id": "BASE-44",
       "isToken": false,
@@ -1059,6 +1123,70 @@
           "name": "Levy",
           "type": "Unit",
           "cost": "3"
+},
+    "BASE-78": {
+      "id": "BASE-78",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Rout",
+          "type": "Spell",
+          "cost": "3",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/rout-7h1ep2u36/cmuik30jw000b356xp4oqa4re.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Rout",
+          "type": "Spell",
+          "cost": "3"
+},
+    "BASE-79": {
+      "id": "BASE-79",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Hold The Line",
+          "type": "Spell",
+          "cost": "3",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/hold-the-line-av1eu2urv/cmuik6tg4000d356xicw5idhb.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Hold The Line",
+          "type": "Spell",
+          "cost": "3"
+},
+    "BASE-80": {
+      "id": "BASE-80",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Volley",
+          "type": "Spell",
+          "cost": "4",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/volley-l11fh2utn/cmuikdo3g000f356xwgpr3ibd.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Volley",
+          "type": "Spell",
+          "cost": "4"
+},
+    "BASE-81": {
+      "id": "BASE-81",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Reinforce",
+          "type": "Spell",
+          "cost": "5",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/reinforce-l81fu2udw/cmuikh2x8000h356xucrpsldm.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Reinforce",
+          "type": "Spell",
+          "cost": "5"
 },
   "RUNE-01": {
     "id": "RUNE-01",
