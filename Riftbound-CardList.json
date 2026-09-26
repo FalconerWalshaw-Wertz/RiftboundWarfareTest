@@ -1225,14 +1225,238 @@
       "isToken": false,
       "face": {
         "front": {
-          "name": "Reinforce",
-          "type": "Spell",
-          "cost": "5",
-          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/reinforce-l81fu2udw/cmuikh2x8000h356xucrpsldm.png?format=webp&width=900&quality=100",
+          "name": "Guerilla Recruit",
+          "type": "Unit",
+          "cost": "2",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/guerilla-recruit-ju1is2urq/cmuilp9u0000p356xn71cexnv.png?format=webp&width=900&quality=100",
           "isHorizontal": false
       }
     },
-          "name": "Reinforce",
+          "name": "Guerilla Recruit",
+          "type": "Unit",
+          "cost": "2"
+},
+    "BASE-82": {
+      "id": "BASE-82",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Saboteur Recruit",
+          "type": "Unit",
+          "cost": "2",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/saboteur-recruit-tg1jb2u6e/cmuiltf4j000r356x06jdusa6.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Saboteur Recruit",
+          "type": "Unit",
+          "cost": "2"
+},
+    "BASE-83": {
+      "id": "BASE-83",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Guerilla Infantry",
+          "type": "Unit",
+          "cost": "3",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/guerilla-infantry-6c1jm2uqa/cmuilwsqp000t356xgenxm9km.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Guerilla Infantry",
+          "type": "Unit",
+          "cost": "3"
+},
+    "BASE-84": {
+      "id": "BASE-84",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Saboteur Infantry",
+          "type": "Unit",
+          "cost": "3",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/saboteur-infantry-lc1jq2u26/cmuilyv6e000v356x2ul657a7.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Saboteur Infantry",
+          "type": "Unit",
+          "cost": "3"
+},
+    "BASE-85": {
+      "id": "BASE-85",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Guerilla Veteran",
+          "type": "Unit",
+          "cost": "4",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/guerilla-veteran-bc1ki2un0/cmuim4gq70011356xkrd5t0o2.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Guerilla Veteran",
+          "type": "Unit",
+          "cost": "4"
+},
+    "BASE-86": {
+      "id": "BASE-86",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Saboteur Veteran",
+          "type": "Unit",
+          "cost": "4",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/saboteur-veteran-gt1jy2ujh/cmuim09sr000x356x63vxj30t.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Saboteur Veteran",
+          "type": "Unit",
+          "cost": "4"
+},
+    "BASE-87": {
+      "id": "BASE-87",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Guerilla Elite",
+          "type": "Unit",
+          "cost": "6",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/guerilla-elite-go1kn2u9m/cmuim65pk0013356xufb4awt3.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Guerilla Elite",
+          "type": "Unit",
+          "cost": "6"
+},
+    "BASE-88": {
+      "id": "BASE-88",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Saboteur Elite",
+          "type": "Unit",
+          "cost": "5",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/saboteur-elite-vf1k22ufi/cmuim207d000z356x8qvkqn2d.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Saboteur Elite",
+          "type": "Unit",
+          "cost": "5"
+},
+    "BASE-89": {
+      "id": "BASE-89",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Turncoat",
+          "type": "Unit",
+          "cost": "8",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/turncoat-xk1kw2uey/cmuim7m940015356xagd951uc.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Turncoat",
+          "type": "Unit",
+          "cost": "8"
+},
+    "BASE-90": {
+      "id": "BASE-90",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Flee!",
+          "type": "Spell",
+          "cost": "1",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/flee-5h1lo2u79/cmuimrps5001a356x0zs4za8s.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Flee!",
+          "type": "Spell",
+          "cost": "1"
+},
+    "BASE-91": {
+      "id": "BASE-91",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Rally",
+          "type": "Spell",
+          "cost": "2",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/rally-9g1lq2u5l/cmuims5av001b356xusczo5bl.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Rally",
+          "type": "Spell",
+          "cost": "2"
+},
+    "BASE-92": {
+      "id": "BASE-92",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Flank",
+          "type": "Spell",
+          "cost": "2",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/flank-nj1lv2ue3/cmuimtw35001d356x9eyn1w6i.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Flank",
+          "type": "Spell",
+          "cost": "2"
+},
+    "BASE-93": {
+      "id": "BASE-93",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Rig To Blow",
+          "type": "Spell",
+          "cost": "4",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/rig-to-blow-xz1m02uia/cmuimw3k4001f356xnt9578y2.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Rig To Blow",
+          "type": "Spell",
+          "cost": "4"
+},
+    "BASE-94": {
+      "id": "BASE-94",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Clear The Trenches",
+          "type": "Spell",
+          "cost": "4",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/clear-the-trenches-hx1m32u1o/cmuimxm55001h356x3giw5fi8.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Clear The Trenches",
+          "type": "Spell",
+          "cost": "4"
+},
+    "BASE-95": {
+      "id": "BASE-95",
+      "isToken": false,
+      "face": {
+        "front": {
+          "name": "Deus Ex Machina",
+          "type": "Spell",
+          "cost": "5",
+          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/deus-ex-machina-7s1m72u9j/cmuin0lkw001j356xucua3acl.png?format=webp&width=900&quality=100",
+          "isHorizontal": false
+      }
+    },
+          "name": "Deus Ex Machina",
           "type": "Spell",
           "cost": "5"
 },
