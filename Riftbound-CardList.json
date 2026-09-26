@@ -985,16 +985,16 @@
       "isToken": false,
       "face": {
         "front": {
-          "name": "Legionary Veteran",
+          "name": "Legionary Infantry",
           "type": "Unit",
-          "cost": "4",
-          "image": "https://cdn.customcardmaker.net/user-uploads/wtangelo/legionary-veteran-z71nm2u1s/cmuino2ly001o356x6omdz4ji.png?format=webp&width=900&quality=100",
+          "cost": "3",
+          "image": "https://i.imgur.com/CAqPNSX.png",
           "isHorizontal": false
       }
     },
-          "name": "Legionary Veteran",
+          "name": "Legionary Infantry",
           "type": "Unit",
-          "cost": "4"
+          "cost": "3"
 },
     "BASE-67": {
       "id": "BASE-67",
