@@ -2101,7 +2101,7 @@
         "cost": "0"
   },
   "HEL-13": {
-    "id": "HEL-10",
+    "id": "HEL-13",
     "isToken": false,
     "face": {
       "front": {
@@ -2116,8 +2116,8 @@
         "type": "Unit",
         "cost": "8"
   },
-  "HEL-11": {
-    "id": "HEL-11",
+  "HEL-14": {
+    "id": "HEL-14",
     "isToken": false,
     "face": {
       "front": {
