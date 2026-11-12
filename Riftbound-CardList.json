@@ -2122,7 +2122,7 @@
     "face": {
       "front": {
         "name": "Rage House",
-        "type": "Battlefield",
+        "type": "Battlefields",
         "cost": "0",
         "image": "https://dhcjt92fxib5i.cloudfront.net/user-uploads/wtangelo/rage-house-r61wl380g/cmwd1czv10001357is8q91d4e.png?format=webp&width=900&quality=100",
         "isHorizontal": true
