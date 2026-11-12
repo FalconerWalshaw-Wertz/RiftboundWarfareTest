@@ -2067,5 +2067,69 @@
         "name": "Project",
         "type": "Unit",
         "cost": "4"
+  },
+  "HEL-11": {
+    "id": "HEL-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Silver Smiths",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://dhcjt92fxib5i.cloudfront.net/user-uploads/wtangelo/the-silver-smiths-eton3gf0/cmvtyfqbr0000357k9glp38he.png?format=webp&width=900&quality=100",
+        "isHorizontal": false
+      }
+    },
+        "name": "The Silver Smiths",
+        "type": "Unit",
+        "cost": "3"
+  },
+  "HEL-12": {
+    "id": "HEL-12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "One-Eyed Jack",
+        "type": "Legend",
+        "cost": "0",
+        "image": "https://dhcjt92fxib5i.cloudfront.net/user-uploads/wtangelo/one-eyed-jack-sc1wv382s/cmwd1mjtf0003357ih771tpkb.png?format=webp&width=900&quality=100",
+        "isHorizontal": false
+      }
+    },
+        "name": "One-Eyed Jack",
+        "type": "Legend",
+        "cost": "0"
+  },
+  "HEL-13": {
+    "id": "HEL-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tugg",
+        "type": "Unit",
+        "cost": "8",
+        "image": "https://dhcjt92fxib5i.cloudfront.net/user-uploads/wtangelo/tugg-6727338av/cmwdbbdls0003357iurkh1uf2.png?format=webp&width=900&quality=100",
+        "isHorizontal": false
+      }
+    },
+        "name": "Tugg",
+        "type": "Unit",
+        "cost": "8"
+  },
+  "HEL-11": {
+    "id": "HEL-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rage House",
+        "type": "Battlefield",
+        "cost": "0",
+        "image": "https://dhcjt92fxib5i.cloudfront.net/user-uploads/wtangelo/rage-house-r61wl380g/cmwd1czv10001357is8q91d4e.png?format=webp&width=900&quality=100",
+        "isHorizontal": true
+      }
+    },
+        "name": "Rage House",
+        "type": "Battlefield",
+        "cost": "0"
   }
 }
